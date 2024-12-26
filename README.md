@@ -16,7 +16,7 @@ This repository contains precompiled binaries of Opentracker based on the open-s
 
 ### Steps to Install
 
-1. Download the precompiled binary from the [Releases](https://github.com/username/repository-name/releases) page.
+1. Download the precompiled binary from the [Releases](https://github.com/bigcaibao/opentracker-binaries/releases) page.
    
 2. Once downloaded, extract the tarball or zip file:
    
@@ -37,3 +37,4 @@ To start Opentracker with a specific configuration file:
 ```bash
 ./opentracker -f /opentracker.conf
 ```
+
