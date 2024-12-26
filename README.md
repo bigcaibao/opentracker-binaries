@@ -22,7 +22,6 @@ This repository contains precompiled binaries of Opentracker based on the open-s
    
    ```bash
    tar -xzvf opentracker-binaries.tar.gz
-   unzip opentracker-binaries.zip
    cd opentracker
    chmod +x opentracker
    ./opentracker -f ./opentracker.conf
