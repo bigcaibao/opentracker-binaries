@@ -1,6 +1,6 @@
 # Opentracker Binaries
 
-This repository contains precompiled binaries of Opentracker based on the open-source [Opentracker repository](https://erdgeist.org/arts/software/opentracker). These binaries make it easy to quickly set up Opentracker without the need to compile from source.
+This repository contains precompiled binaries of Opentracker based on the open-source [Opentracker repository](https://erdgeist.org/gitweb/opentracker/). These binaries make it easy to quickly set up Opentracker without the need to compile from source.
 
 ## Features
 
