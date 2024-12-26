@@ -30,7 +30,7 @@ This repository contains precompiled binaries of Opentracker based on the open-s
 
 
 ## Configuration
-You can configure Opentracker by editing the opentracker.conf file. Please refer to the official Opentracker documentation for detailed configuration options.
+You can configure Opentracker by editing the `opentracker.conf` file. Please refer to the official Opentracker documentation for detailed configuration options.
 
 ## Usage
 To start Opentracker with a specific configuration file:
